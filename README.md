@@ -1,4 +1,4 @@
-**Tasks:**
+**Assignment-1**
 Basic Types:
   Declare variables of the following types and assign appropriate values:
   number
