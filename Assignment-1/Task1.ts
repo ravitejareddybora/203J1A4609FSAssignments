@@ -16,7 +16,7 @@ let t:[string,number];
 t=['hello',5];
 const pi=3.14;
 console.log(typeof(pi));
-enum Color{Red,Green,Blue};
+enum Color{Sunday,Monday,Tuesday,wednesday,Thursday,Friday,Saturday};
 
 console.log(n,s,s2,b,arr,sarr,r,pi,Color,t);
 

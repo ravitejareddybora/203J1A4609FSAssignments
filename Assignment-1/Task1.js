@@ -17,9 +17,13 @@ var pi = 3.14;
 console.log(typeof (pi));
 var Color;
 (function (Color) {
-    Color[Color["Red"] = 0] = "Red";
-    Color[Color["Green"] = 1] = "Green";
-    Color[Color["Blue"] = 2] = "Blue";
+    Color[Color["Sunday"] = 0] = "Sunday";
+    Color[Color["Monday"] = 1] = "Monday";
+    Color[Color["Tuesday"] = 2] = "Tuesday";
+    Color[Color["wednesday"] = 3] = "wednesday";
+    Color[Color["Thursday"] = 4] = "Thursday";
+    Color[Color["Friday"] = 5] = "Friday";
+    Color[Color["Saturday"] = 6] = "Saturday";
 })(Color || (Color = {}));
 ;
 console.log(n, s, s2, b, arr, sarr, r, pi, Color, t);
